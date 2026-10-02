@@ -1,1 +1,1 @@
-# RedBalloonTracker
+RedBalloonTracker , uses multiple functions to track a circular red balloon . I mainly learned how to do these type of things from Murtaza's youtube channel . I defined 3 functions in utils.py . By doing this i reduced the space i used in the script.py . This made script.py easy to read and , helped me fix the bugs . If you have colorfull balloon you can modify some values in trackbar . Then you can make the pre defined rectangle track the balloon . 
